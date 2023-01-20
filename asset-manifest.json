@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW-9-useReducer/static/css/main.964fdded.css",
+    "main.js": "/HW-9-useReducer/static/js/main.0e488746.js",
+    "index.html": "/HW-9-useReducer/index.html",
+    "main.964fdded.css.map": "/HW-9-useReducer/static/css/main.964fdded.css.map",
+    "main.0e488746.js.map": "/HW-9-useReducer/static/js/main.0e488746.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.0e488746.js"
+  ]
+}
